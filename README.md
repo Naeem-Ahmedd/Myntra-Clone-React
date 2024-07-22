@@ -14,7 +14,8 @@ The Myntra React Clone project aims to replicate the core functionalities & user
 * React Router
 * Bootstrap
 * React Icons
-* Express
+* Node.js
+* Express.js
 
 
 ## 💻 How to clone & run this project ?
